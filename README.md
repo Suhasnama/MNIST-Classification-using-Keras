@@ -1,4 +1,4 @@
 # hello-world
-The first repo \n
-This is second branch \n
+The first repo 
+This is second branch 
 I'am going to commit this one
